@@ -93,18 +93,6 @@ Download **OXCA Music** directly from Google Play and enjoy powerful music featu
 - **Lyrics Integration:** LRCLIB
 - **Version Control:** Git & GitHub
 
-## 📸 App Screenshots
-
-<p align="center">
-  <i>Explore the OXCA Music interface.</i>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot1.png" width="30%" alt="OXCA Music Home Screen"/>
-  <img src="assets/screenshot2.png" width="30%" alt="OXCA Music Player"/>
-  <img src="assets/screenshot3.png" width="30%" alt="OXCA Music Library"/>
-</p>
-
 ## 🌍 Official Links & Community
 
 Stay connected with OXCA Music and receive the latest announcements, updates and releases.
